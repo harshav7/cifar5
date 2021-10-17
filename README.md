@@ -26,3 +26,5 @@ done
 pip install -r requirements.txt
 python project/lit_image_classifier.py --data_dir ../CIFAR-10-images
 ```
+
+Error rectification required in collection.utils
